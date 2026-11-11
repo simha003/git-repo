@@ -1,0 +1,2 @@
+Same line changed in two branches: If two people edit the same line in a file in different branches, Git can't choose which version is correct.
+Welcome
